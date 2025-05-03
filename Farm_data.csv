@@ -1,0 +1,11 @@
+﻿FarmNumber,Type of crop,Average farm price (dollars per tonne),Average yield (kg/ha),Production (tonnes),Seeded area (hectares)
+1,Barley,15,1585,84000,53000
+2,Flaxseed,29,950,1900,2000
+3,Oats,18,1675,352000,210000
+4,"Rye, all",23,1665,5000,3000
+5,Sugar beets,0.55,18100,38100,2100
+6,Tame hay,0.84,5050,101000,20000
+7,"Wheat, all",25,1690,186000,110000
+8,Barley,0,0,0,0
+9,Oats,0,0,0,0
+10,"Wheat, all",0,0,0,0
